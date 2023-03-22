@@ -1,3 +1,10 @@
+/* 
+ *  EJ Flores
+ *  OpenDoor.cs
+ *  Assignment 7
+ *  This script is the command to open a door.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

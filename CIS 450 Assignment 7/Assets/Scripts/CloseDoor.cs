@@ -1,3 +1,10 @@
+/* 
+ *  EJ Flores
+ *  CloseDoor.cs
+ *  Assignment 7
+ *  This script is the command to close a door.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

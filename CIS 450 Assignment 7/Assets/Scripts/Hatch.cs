@@ -1,3 +1,10 @@
+/* 
+ *  EJ Flores
+ *  Hatch.cs
+ *  Assignment 7
+ *  This script is the concrete class Hatch for Openable.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;

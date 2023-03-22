@@ -1,3 +1,10 @@
+/* 
+ *  EJ Flores
+ *  Player.cs
+ *  Assignment 7
+ *  This script handles the various opening and closing of doors via commands, basically acting as the Invoker.
+ */
+
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
